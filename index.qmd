@@ -1,0 +1,19 @@
+---
+title: "Arthur Chang"
+subtitle: "Data Analyst"
+image: ArthurChang.png
+about:
+  template: jolla
+links:
+- icon: github
+  text: github
+  href: https://github.com/Arthu-r-C
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
